@@ -9,6 +9,6 @@ It is believed that the annual members will be key to future growth.
 Designing market strategies aim at converting casual riders into annual members by analysing how they take rides differently.
 
 ### THE DATA
-The data was gotten [here](https://divvy-tripdata.s3.amazonaws.com/index.html) and available by Motivate International Inc under the [license](https://ride.divvybikes.com/data-license-agreement). The last twelve months were used to carry out the analysis.
+The data was obtained [here](https://divvy-tripdata.s3.amazonaws.com/index.html) and available by Motivate International Inc under the [license](https://ride.divvybikes.com/data-license-agreement). The last twelve months were used to carry out the analysis.
 Tableau and SQL were used for the analysis.
 
